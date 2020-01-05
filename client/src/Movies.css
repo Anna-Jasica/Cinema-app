@@ -1,0 +1,37 @@
+.movies {
+    font-size: 17px;
+    width: 100%;
+    text-align: center;
+}
+
+.wrapper {
+    width: 100%;
+    text-align: center;
+    background-color: #151521;
+}
+
+
+.singleMovie {
+    text-align: center;
+    vertical-align: middle;
+    margin: 20px;
+    border: 3px solid #f2cb4a;
+    color: #f2cb4a;
+    padding: 20px;
+    display: inline-block;
+    height: 120px;
+    width: 300px;
+    overflow: hidden;
+}
+
+.singleMovie:hover {
+    cursor: pointer;
+    border: 3px solid #151521;
+    color: #151521;
+    background-color: #f2cb4a;
+}
+
+.movieName {
+    font-size: 20px;
+    font-weight: bold;
+}

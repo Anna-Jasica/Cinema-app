@@ -1,0 +1,22 @@
+.form {
+    width: 30%;
+    color: #f2cb4a;
+    border: 2px solid #f2cb4a;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+input {
+    background-color: #f2cb4a;
+    color: #f2cb4a;
+    text-align: center;
+}
+
+.submitButton {
+    padding: 10px;
+    border-radius: 2px;
+    background-color: #f2cb4a;
+    border: 2px solid #f2cb4a;
+    margin-bottom: 5px;
+}
